@@ -1,0 +1,36 @@
+p{
+    background-color: darkslategray;
+}
+h1{
+    font-size: 50px;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 0pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-size: 0rem;
+    font-family: fantasy;
+}
+h4{
+    font-size: 50px;
+    font-family: monospace;
+    color: blue;
+}
+h5{
+    font-style: italic;
+    font-size: 50px;
+    color: brown;
+}
+h6{
+    font-style: inherit;
+    font-size: 50px;  
+      color: coral;
+    }
+    h7{
+        font-size: 50px;
+        font-style: oblique;
+        color: darkblue;
+    }
