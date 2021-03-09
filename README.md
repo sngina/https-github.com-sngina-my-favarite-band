@@ -42,6 +42,6 @@ SOFTWARE.
 hamida-mstafa/fev-band
 my fev music band
 Website
-https://https://github.com/sngina/https-github.com-sngina-my-favarite-band/
+
 Language
-HTML
+HTMLhttps://sngina.github.io/https-github.com-sngina-my-favarite-band/
