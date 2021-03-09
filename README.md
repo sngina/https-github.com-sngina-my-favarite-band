@@ -44,4 +44,4 @@ my fev music band
 Website
 
 Language
-HTMLhttps://sngina.github.io/https-github.com-sngina-my-favarite-band/
+HTMLhttps://https://sngina.github.io/https-github.com-sngina-my-favarite-band/
